@@ -1,0 +1,41 @@
+.c1{
+	
+	height : 100px;
+	width : 1250px;
+	background: black;
+	border: solid;
+	border-color : white;
+	color : white;
+}
+
+.c2{
+background-color:black;
+float : left;
+height: 520px;
+width : 600px;
+margin-top=30px;
+margin-left=120px;
+border:solid;
+
+color:white;}
+
+.c3{
+background-color:olive;
+float : right;
+height: 520px;
+width : 600px;
+margin-top = 30px;
+margin-right= 20px;
+border-color: white;
+border: solid;
+color:white;}
+
+.c4{
+height: 100px;
+width : 1250px;
+border: solid;
+margin-top = 730px;
+background:black;
+color:white;}
+
+
