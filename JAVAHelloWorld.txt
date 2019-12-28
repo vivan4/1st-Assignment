@@ -1,0 +1,19 @@
+package com.deloitte.employee;
+
+public class HelloWorld {
+
+	public static void main(String args[]) {
+		System.out.println("Hello World");
+		System.out.println("Addition =" + addition(2, 10));
+		System.out.println("Subs =" + sub(22, 10));
+	}
+
+	public static int addition(int x, int y) {
+		return x + y;
+	}
+
+	public static int sub(int x, int y) {
+		return x - y;
+	}
+
+}
